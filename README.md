@@ -4,8 +4,8 @@ This project is a clone of the [Language Learning App](https://youtu.be/ZuwigEmw
 
 ## Original Tutorial
 
-- **YouTube Video:** [Build a Language Learning App with React & Node.js | Full Stack Project](https://youtu.be/ZuwigEmwsTM)
-- **Channel:** Web Dev Simplified
+- **YouTube Video:** [MERN Stack Project: Video Calling Realtime Chat App & Social App](https://youtu.be/ZuwigEmwsTM)
+- **Channel:** CodeSistency
 
 > _This repository was created by following and customizing the above tutorial for learning purposes._
 
@@ -69,7 +69,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 
-This project is created for educational purposes and is based on content provided by Web Dev Simplified. For original source code and licensing, refer to the [original video](https://youtu.be/ZuwigEmwsTM) and its description.
+This project is created for educational purposes and is based on content provided by CodeSistency. For original source code and licensing, refer to the [original video](https://youtu.be/ZuwigEmwsTM) and its description.
 
 ---
 
